@@ -10,7 +10,7 @@
      <meta name="keywords" content="słowa, kluczowe, opisujące, zawartość">
      <meta name="author" content="Jan Programista">
      <meta http-equiv="X-Ua-Compatible" content="IE=edge,chrome=1">
-     <link rel="stylesheet" href="arkusz.css">
+     <link rel="stylesheet" href="styl8.css">
    
 
   </head>
