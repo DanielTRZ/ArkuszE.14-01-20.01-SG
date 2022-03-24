@@ -15,7 +15,18 @@
 
   </head>
   <body>
-
+<div id="menu">
+    <a href="index.php">Główna</a>
+    <a href="procesory.html">Procesory</a>
+    <a href="ram.html">RAM</a>
+    <a href="grafika.html">Grafika</a>
+</div>
+<div id="logo"></div>
+<div id="glowny"></div>
+<div id="stopka1"></div>
+<div id="stopka2"></div>
+<div id="stopka3"></div>
+<div id="stopka4"></div>
   </body>
 
 </html>
