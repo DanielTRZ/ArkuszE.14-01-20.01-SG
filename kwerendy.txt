@@ -2,7 +2,8 @@ kw1  SELECT `id`,`nazwa`,`opis`,`cena` FROM `podzespoly` WHERE `cena` < 1000;
 
 kw2  SELECT `nazwa`,`opis` FROM `podzespoly` WHERE `dostepnosc` = 1 AND `producenci_id` = 1;
 
-kw3
+kw3  SELECT podzespoly.nazwa,producenci.nazwa FROM `podzespoly` JOIN `producenci` ON podzespoly.producenci_id = producenci.id; 
+
 
 kw4
 
