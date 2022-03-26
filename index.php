@@ -5,7 +5,6 @@
 
      <meta charset="utf-8">
      <title>Nasz sklep komputerowy</title>
-
      <meta name="description" content="Opis zawartości strony dla wyszukiwarek">
      <meta name="keywords" content="słowa, kluczowe, opisujące, zawartość">
      <meta name="author" content="Jan Programista">
