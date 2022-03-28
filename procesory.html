@@ -2,7 +2,6 @@
 <html lang="pl">
 
   <head>
-
      <meta charset="utf-8">
      <title>Nasz sklep komputerowy</title>
      <meta name="description" content="Opis zawartości strony dla wyszukiwarek">
