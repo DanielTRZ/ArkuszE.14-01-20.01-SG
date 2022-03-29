@@ -8,9 +8,8 @@
      <meta name="keywords" content="słowa, kluczowe, opisujące, zawartość">
      <meta name="author" content="Jan Programista">
      <meta http-equiv="X-Ua-Compatible" content="IE=edge,chrome=1">
-     <link rel="stylesheet" href="styl8.css">
-   
-  </head>
+     <link rel="stylesheet" href="styl8.css">  
+ </head>
   <body>
 <div id="menu">
     <a href="index.php">Główna</a>
