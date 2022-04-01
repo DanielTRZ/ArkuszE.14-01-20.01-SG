@@ -3,10 +3,6 @@
   <head>
      <meta charset="utf-8">
      <title>Nasz sklep komputerowy</title>
-     <meta name="description" content="Opis zawartości strony dla wyszukiwarek">
-     <meta name="keywords" content="słowa, kluczowe, opisujące, zawartość">
-     <meta name="author" content="Jan Programista">
-     <meta http-equiv="X-Ua-Compatible" content="IE=edge,chrome=1">
      <link rel="stylesheet" href="styl8.css">
   </head>
   <body>
@@ -25,15 +21,39 @@
    <tr>
       <th>NUMER</th> <th>NAZWA PODZESPOŁU</th> <th>OPIS</th><th>CENA</th>
    </tr>
-   <?php 
-     /*   <tr>
-      <td>4</td> <td>5</td> <td>6</td>
-   </tr>
-   <tr>
-      <td>7</td> <td>8</td> <td>9</td>
-   </tr> */
-    
-       ?>
+    <?php
+    $baza=mysqli_connect('localhost','root','','sklep');
+     if(mysqli_connect_errno())
+     {echo"wystapil blad polaczenia z baza";}
+      $wynik=mysqli_query($baza,'SELECT `id`,`nazwa`,`opis`,`cena` FROM `podzespoly` WHERE `cena` < 1000');
+      while($r=mysqli_fetch_array($wynik))
+      {
+     echo "<tr>";
+     echo "<td>";
+     echo $r["id"];
+     echo "</td>"; 
+   
+         
+       
+     echo "<td>";
+     echo $r["nazwa"];
+     echo "</td>";   
+     
+          
+     echo "<td>";
+     echo $r["opis"];
+     echo "</td>";  
+        
+     echo '<td id="right">';
+     echo $r["cena"];
+     echo "</td>";
+     echo "</tr>"; 
+
+      
+      }
+      
+      mysqli_close($baza);
+  ?>
 </table>
 </div>
 <div id="stopka1">
@@ -41,11 +61,11 @@
 </div>
 <div id="stopka2">
     <h4>Nasz Sklep Komputerowy</h4>
-    <p>Współpracujemy z hurtownią</p><a href="http://edata.pl/"target="_blank">edata</a>
+    <p>Współpracujemy z hurtownią<a href="http://edata.pl/"target="_blank">edata</a></p>
 </div>
 
 <div id="stopka3">
-    <a>zadzwoń: 601 602 603</a>
+    <p>zadzwoń: 601 602 603</p>
 </div>
 <div id="stopka4">
     Stronę wykonał:00000000000 
