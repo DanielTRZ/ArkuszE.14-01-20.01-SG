@@ -25,3 +25,39 @@ background-color:#E3F6F7;
 width:500px;
 padding: 20px 20px 20px 20px;    
 }
+#stopka1{
+background-color:#63AC74;
+height:150px;
+width:25%;
+float:left;
+}
+#stopka2{
+background-color:#63AC74;
+height:150px;
+width:25%;
+float:left;
+}
+#stopka3{
+background-color:#63AC74;
+height:150px;
+width:25%;
+float:left;
+}
+#stopka4{
+background-color:#63AC74;
+height:150px;
+width:25%;
+float:left;
+}
+table{
+width: 100%;
+border: 2px solid green;
+}
+th{
+background-color: #63AC74;
+color: white;
+}
+a{
+color: orange;
+margin: 15px 15px 15px 15px;
+}

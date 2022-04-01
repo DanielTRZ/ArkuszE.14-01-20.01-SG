@@ -46,7 +46,7 @@
 </div>
 <div id="stopka2">
     <h4>Nasz Sklep Komputerowy</h4>
-    <a>Współpracujemy z hurtownią <a href="http://edata.pl/" target="_blank">edata</a></a>
+    <p>Współpracujemy z hurtownią</p><a href="http://edata.pl/"target="_blank">edata</a>
 </div>
 
 <div id="stopka3">
