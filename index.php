@@ -32,7 +32,6 @@
      echo "<td>";
      echo $r["id"];
      echo "</td>"; 
-   
          
        
      echo "<td>";
