@@ -35,8 +35,7 @@
                 
      echo "<td>";
      echo $r["nazwa"];
-     echo "</td>";   
-     
+     echo "</td>";        
           
      echo "<td>";
      echo $r["opis"];
