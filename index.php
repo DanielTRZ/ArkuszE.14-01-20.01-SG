@@ -32,8 +32,7 @@
      echo "<td>";
      echo $r["id"];
      echo "</td>"; 
-         
-       
+                
      echo "<td>";
      echo $r["nazwa"];
      echo "</td>";   
