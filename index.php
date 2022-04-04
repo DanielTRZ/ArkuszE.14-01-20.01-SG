@@ -44,8 +44,7 @@
      echo '<td id="right">';
      echo $r["cena"];
      echo "</td>";
-     echo "</tr>"; 
-      
+     echo "</tr>";      
       }
       
       mysqli_close($baza);
