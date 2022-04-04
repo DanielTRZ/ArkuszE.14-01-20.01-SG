@@ -45,7 +45,6 @@
      echo $r["cena"];
      echo "</td>";
      echo "</tr>"; 
-
       
       }
       
