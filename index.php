@@ -13,7 +13,7 @@
 <a href="grafika.html">Grafika</a>
 </div>
 <div id="logo">
-    <h2>Podzespoły komputerowe</h2>
+<h2>Podzespoły komputerowe</h2>
 </div>
 <div id="glowny">
     <h1>Dzisiejsze promocje</h1>
