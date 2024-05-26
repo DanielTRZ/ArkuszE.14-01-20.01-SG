@@ -19,7 +19,7 @@
 <h1>Dzisiejsze promocje</h1>
 <table>
 <tr>
-      <th>NUMER</th> <th>NAZWA PODZESPOŁU</th> <th>OPIS</th><th>CENA</th>
+<th>NUMER</th> <th>NAZWA PODZESPOŁU</th> <th>OPIS</th><th>CENA</th>
    </tr>
     <?php
     $baza=mysqli_connect('localhost','root','','sklep');
