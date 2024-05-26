@@ -5,7 +5,7 @@
 <title>Nasz sklep komputerowy</title>
 <link rel="stylesheet" href="styl8.css">
 </head>
-  <body>
+<body>
 <div id="menu">
     <a href="index.php">Główna</a>
     <a href="procesory.html">Procesory</a>
