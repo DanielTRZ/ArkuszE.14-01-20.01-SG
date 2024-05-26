@@ -8,7 +8,7 @@
 <body>
 <div id="menu">
 <a href="index.php">Główna</a>
-    <a href="procesory.html">Procesory</a>
+<a href="procesory.html">Procesory</a>
     <a href="ram.html">RAM</a>
     <a href="grafika.html">Grafika</a>
 </div>
