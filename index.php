@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>Nasz sklep komputerowy</title>
 <link rel="stylesheet" href="styl8.css">
-  </head>
+</head>
   <body>
 <div id="menu">
     <a href="index.php">Główna</a>
