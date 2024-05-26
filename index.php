@@ -21,7 +21,7 @@
 <tr>
 <th>NUMER</th> <th>NAZWA PODZESPOŁU</th> <th>OPIS</th><th>CENA</th>
 </tr>
-    <?php
+<?php
     $baza=mysqli_connect('localhost','root','','sklep');
      if(mysqli_connect_errno())
      {echo"wystapil blad polaczenia z baza";}
