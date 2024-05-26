@@ -16,7 +16,7 @@
 <h2>Podzespoły komputerowe</h2>
 </div>
 <div id="glowny">
-    <h1>Dzisiejsze promocje</h1>
+<h1>Dzisiejsze promocje</h1>
     <table>
    <tr>
       <th>NUMER</th> <th>NAZWA PODZESPOŁU</th> <th>OPIS</th><th>CENA</th>
