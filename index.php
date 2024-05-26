@@ -60,7 +60,7 @@
 </div>
 
 <div id="stopka3">
-    <p>zadzwoń: 601 602 603</p>
+<p>zadzwoń: 601 602 603</p>
 </div>
 <div id="stopka4">
 Stronę wykonał:00000000000 
