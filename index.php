@@ -18,7 +18,7 @@
 <div id="glowny">
 <h1>Dzisiejsze promocje</h1>
 <table>
-   <tr>
+<tr>
       <th>NUMER</th> <th>NAZWA PODZESPOŁU</th> <th>OPIS</th><th>CENA</th>
    </tr>
     <?php
