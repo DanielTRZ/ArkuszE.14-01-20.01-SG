@@ -48,7 +48,7 @@
       }
       
       mysqli_close($baza);
-  ?>
+?>
 </table>
 </div>
 <div id="stopka1">
