@@ -63,7 +63,7 @@
     <p>zadzwoń: 601 602 603</p>
 </div>
 <div id="stopka4">
-    Stronę wykonał:00000000000 
+Stronę wykonał:00000000000 
 </div>
 </body>
 </html>
