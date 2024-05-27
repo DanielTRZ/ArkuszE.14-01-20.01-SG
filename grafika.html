@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pl">
-  <head>
+<head>
      <meta charset="utf-8">
      <title>Nasz sklep komputerowy</title>
      <link rel="stylesheet" href="styl8.css">
